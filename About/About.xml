@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Prison Breaks Upgraded</name>
+	<supportedVersions>
+    <li>1.6</li>
+	</supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+	<packageId>celphcs30.prisonbreaksupgraded</packageId>
+	<author>celphcs30</author>
+	<description>Configure prison breaks based on mood threshold and terror level (Ideology). Toggle mood checking, use terror-based prevention, or combine both. Default prevents breaks when prisoners are happy.
+
+Note: Settings changes require a game restart to take effect.
+
+Fork of "Configurable Prison Breaks" by nigel (https://steamcommunity.com/sharedfiles/filedetails/?id=3227325698)</description>
+  <modVersion>2.0.0</modVersion>
+</ModMetaData>

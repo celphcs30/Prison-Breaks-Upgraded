@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <PrisonBreaksUpgraded_UseMoodLabel>Use mood threshold to prevent prison breaks</PrisonBreaksUpgraded_UseMoodLabel>
+    <PrisonBreaksUpgraded_UseMoodTooltip>If enabled, prisoners must be at or above the selected mood threshold to attempt prison breaks. If disabled, mood will not be checked.</PrisonBreaksUpgraded_UseMoodTooltip>
+    <PrisonBreaksUpgraded_ThresholdLabel>Threshold for prison break</PrisonBreaksUpgraded_ThresholdLabel>
+    <PrisonBreaksUpgraded_NeverButton>Never</PrisonBreaksUpgraded_NeverButton>
+    <PrisonBreaksUpgraded_MinorButton>Minor</PrisonBreaksUpgraded_MinorButton>
+    <PrisonBreaksUpgraded_MajorButton>Major</PrisonBreaksUpgraded_MajorButton>
+    <PrisonBreaksUpgraded_ExtremeButton>Extreme</PrisonBreaksUpgraded_ExtremeButton>
+    
+    <PrisonBreaksUpgraded_UseTerrorLabel>Use Terror to prevent prison breaks (Ideology)</PrisonBreaksUpgraded_UseTerrorLabel>
+    <PrisonBreaksUpgraded_UseTerrorTooltip>If enabled, prisoners with terror at or above the threshold will never attempt prison breaks. Works independently of mood checking - both checks must pass for a prison break to be allowed.</PrisonBreaksUpgraded_UseTerrorTooltip>
+    <PrisonBreaksUpgraded_TerrorThresholdLabel>Terror threshold</PrisonBreaksUpgraded_TerrorThresholdLabel>
+    <PrisonBreaksUpgraded_TerrorThresholdTooltip>Prisoners with terror at or above this percentage will never attempt prison breaks. Terror is increased by terror sculptures, gibbet cages, and skullspikes.</PrisonBreaksUpgraded_TerrorThresholdTooltip>
+    
+    <PrisonBreaksUpgraded_NoChecksWarning>Warning: Both mood and terror checks are disabled. All prisoners will be able to attempt prison breaks.</PrisonBreaksUpgraded_NoChecksWarning>
+</LanguageData>
